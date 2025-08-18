@@ -1,8 +1,8 @@
 # pickleball-players-test-charter
 The focus of this project is to write a test charter for [pickleball.com/players](https://pickleball.com/players). 
-
+Note: We will be focusing on Players page which rests under the header.menu.players tab
 ## Main Features
-### Header.Links
+### header.links
 1. Shop Pickleball Central
 2. Where to Watch Pickleball
 3. Notifications
@@ -14,7 +14,7 @@ The focus of this project is to write a test charter for [pickleball.com/players
     - Payments
     - Logout
 
-### Header.Menu
+### header.menu
 1. Microapps
     - Pickleball.com
     - Tournaments
@@ -27,7 +27,7 @@ The focus of this project is to write a test charter for [pickleball.com/players
 5. Leagues
 6. Team Leagues
 7. Clubs
-8. Players
+8. *Players
 9. Rankings
 10. Tickets
 11. Pickleball Hub Dropdown
