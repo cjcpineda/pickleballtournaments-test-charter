@@ -1,8 +1,7 @@
-# pickleballtournaments_test_charter
-The focus of this project is building and testing an automation framework for PickleballTournaments.com. I’ll start with a test charter to outline the scope and goals, then gradually move into writing and refining automated tests.
+# pickleball-players-test-charter
+The focus of this project is to write a test charter for [pickleball.com/players](https://pickleball.com/players). 
 
 ## Main Features
- 
 ### Header.Links
 1. Shop Pickleball Central
 2. Where to Watch Pickleball
